@@ -2,7 +2,7 @@
 
 ## Basic Information
 
-This is small graphic that plots the most popular languages by the year in which they were created. Popularity is measured by number of GitHub repositories that use a language. Languages can be grouped by paradigm.
+This is a small graphic that plots the most popular languages by the year in which they were created. Popularity is measured by number of GitHub repositories that use a language. Languages can be grouped by paradigm.
 
 ## Usage
 
