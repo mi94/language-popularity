@@ -17,7 +17,13 @@ Simply use Python's SimpleHTTPServer module to serve the app.
 python -m SimpleHTTPServer 8888
 ```
 
-The app is available in your browser at this address:
+If you are using Python 3, you will have to use
+
+```
+python -m http.server 8888
+```
+
+The app is available on your browser at this address:
 ```
 http://localhost:8888
 ```
