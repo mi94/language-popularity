@@ -8,7 +8,7 @@ This is a small graphic that plots the most popular languages by the year in whi
 
 ### Clone the repository
 
-`git clone git@github.com:malekitani/language-popularity.git`
+`git clone git@github.com:mi94/language-popularity.git`
 
 ### Serve the app
 Simply use Python's SimpleHTTPServer module to serve the app.
